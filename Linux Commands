@@ -1,0 +1,16 @@
+whoami => tells usernam
+touch meri_file.txt => make new file
+ls => list 
+pwd => present working directory
+cd test => change directory to test
+cd => typed only cd and hit enter then you'll be at home directory.
+mv ../meri_file.txt . => Be in directory where you wanna copy and this command will only move the file from previous directory.
+cp => works similar like mv, to copy files.
+clear => clear the terminal
+nano => editor runs on terminal
+nano meri_file.txt => opens this file on terminal
+cat meri_file.txt => display content of file on the terminal.
+echo => is the print command of linux, needs to double quotes.
+history => gives list of last entered commands.
+ls -la => Gives detail of the file.
+rm meri_file.txt => To remove files.
